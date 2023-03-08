@@ -65,6 +65,7 @@
 .i-right{
     flex: 1;
     position: relative;
+    /* background-color: aquamarine */
 }
 
 .i-right>*{   
@@ -94,3 +95,20 @@
     
     
 }
+
+.i-right img:nth-child(4)
+{
+
+     transform: scale(0.5);
+     top: -20%;
+     left: -25%;
+     border-radius: 50%;
+     
+}
+
+/* .blur{
+
+    width: 22rem;
+    height: 14rem;
+    filter: blur(50px);
+} */

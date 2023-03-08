@@ -1,0 +1,20 @@
+
+.services{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: antiquewhite;
+    margin-top: 2rem;
+
+}
+
+.awesome{
+    display: flex;
+    flex-direction: column;
+    background-color: aquamarine;
+    flex: 1;
+    padding: 1rem;
+}
+
+.card{
+     flex: 1;
+}
